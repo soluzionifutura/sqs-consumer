@@ -1,3 +1,5 @@
+> :warning: **DEPRECATED**: use https://github.com/bbc/sqs-consumer instad. The `deleteMessagesOnSuccess` option has been added in the original module as `shouldDeleteMessages`
+
 # sqs-consumer
 
 [![NPM downloads](https://img.shields.io/npm/dm/sqs-consumer.svg?style=flat)](https://npmjs.org/package/sqs-consumer)
